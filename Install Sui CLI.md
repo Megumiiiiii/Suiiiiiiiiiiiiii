@@ -5,7 +5,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 ### Install Keperluan
 ```
-sudo apt update && sudo apt install -y curl git libssl-dev libclang-dev tzdata ca-certificates build-essential pkg-config cmake
+sudo apt update && sudo apt install -y curl git libssl-dev libclang-dev tzdata ca-certificates build-essential pkg-config cmake screen
 ```
 
 ### Install Sui
@@ -73,6 +73,9 @@ curl -fLJO https://github.com/MystenLabs/sui-genesis/raw/main/devnet/genesis.blo
 
 ### RUN
 ```
+screen -S sui
 cargo run --release --bin sui-node -- --config-path fullnode.yaml
 ```
+
+Tunggu sampai selesai, setelah selesai CTRL+A+D untuk keluar
 
