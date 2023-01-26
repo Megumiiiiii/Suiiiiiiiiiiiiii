@@ -4,9 +4,12 @@
 
 <h1 align="center">Sui</h1>
 
-## Run Node Menggunakan Docker
 
-[Docker](https://github.com/Megumiiiiii/Suiiiiiiiiiiiiii/blob/main/Node%20Sui%20Docker)
 
 ## Install Sui CLI
-[CLI](https://github.com/Megumiiiiii/Suiiiiiiiiiiiiii/blob/main/Install%20Sui%20CLI)
+[CLI](https://github.com/Megumiiiiii/Suiiiiiiiiiiiiii/blob/main/Install%20Sui%20CLI.md)
+
+
+## Run Node Menggunakan Docker
+
+[Docker](https://github.com/Megumiiiiii/Suiiiiiiiiiiiiii/blob/main/Node%20Sui%20Docker.md)
