@@ -31,8 +31,8 @@ docker-compose --version
 ## Buat Directory untuk Sui
 
 ```
-mkdir -p $HOME/sui
-cd $HOME/sui
+mkdir -p $HOME/Sui
+cd $HOME/Sui
 ```
 
 #### Download file **YAML**
