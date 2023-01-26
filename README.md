@@ -6,6 +6,10 @@
 
 
 
+BIsa Pilih menggunakan Rust (CLI) atau Docker
+
+
+
 ## Install Sui CLI
 [CLI](https://github.com/Megumiiiiii/Suiiiiiiiiiiiiii/blob/main/Install%20Sui%20CLI.md)
 
