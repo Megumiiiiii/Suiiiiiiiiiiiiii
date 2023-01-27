@@ -44,7 +44,7 @@ wget -O $HOME/Sui/fullnode-template.yaml https://github.com/MystenLabs/sui/raw/m
 ```
 IMAGE="mysten/sui-node:2d07756360c28e35d7c60816bb0f1ed94ccf356e"
 wget -O $HOME/Sui/docker-compose.yaml https://raw.githubusercontent.com/MystenLabs/sui/main/docker/fullnode/docker-compose.yaml
-sed -i.bak "s|image:.*|image: $IMAGE|" $HOME/sui/docker-compose.yaml
+sed -i.bak "s|image:.*|image: $IMAGE|" $HOME/Sui/docker-compose.yaml
 ```
 
 #### Download genesis.blob
