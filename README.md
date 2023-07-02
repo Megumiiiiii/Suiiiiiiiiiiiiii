@@ -1,19 +1,16 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/aXE4aGVPDs1pGcm0y4/giphy.gif" height="338" width="600"/>
-</div>
+# github-profile-summary-cards-example
 
-<h1 align="center">Sui</h1>
+:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
 
+Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
 
+```To create your profile README you need to name the repo as your username```
 
-BIsa Pilih menggunakan Rust (CLI) atau Docker
+| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
+| :-------: | :-------------------------------------------------------------------------------------------------------- |
 
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-
-## Install Sui CLI
-[CLI](https://github.com/Megumiiiiii/Suiiiiiiiiiiiiii/blob/main/Install%20Sui%20CLI.md)
-
-
-## Run Node Menggunakan Docker
-
-[Docker](https://github.com/Megumiiiiii/Suiiiiiiiiiiiiii/blob/main/Node%20Sui%20Docker.md)
+[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
